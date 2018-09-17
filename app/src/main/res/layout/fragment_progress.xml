@@ -1,0 +1,33 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:cpbv="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/icon_invest_bg"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <com.asuper.superview.view.progressbarview.HorizontalProgressBar
+        android:id="@+id/hp_progress"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:layout_marginTop="35dp">
+
+        <com.asuper.superview.view.progressbarview.CircleProgressBarView
+            android:id="@+id/circle_progress_view"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_centerInParent="true"
+            cpbv:centerProgressTextColor="@color/white"
+            cpbv:centerProgressTextSize="12sp"
+            cpbv:circleBgStrokeWidth="3dp"
+            cpbv:isDrawCenterProgressText="true"
+            cpbv:progressStrokeWidth="3dp" />
+
+    </RelativeLayout>
+
+
+</LinearLayout>

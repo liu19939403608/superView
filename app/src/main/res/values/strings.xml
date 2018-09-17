@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SuperView</string>
+
+    <string name="fragment_refresh_styles">水波纹</string>
+    <string name="fragment_refresh_example">进度条</string>
+    <string name="fragment_refresh_practice">智能TextView</string>
+
+    <string name="title_activity_index_main">Refresh</string>
+
+    <string name="title_style">进度条</string>
+    <string name="title_example">炫酷文字</string>
+    <string name="title_practice">水波纹</string>
+</resources>

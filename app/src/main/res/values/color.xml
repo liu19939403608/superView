@@ -1,0 +1,76 @@
+<resources>
+
+    <color name="transparent">#00000000</color>
+    <color name="colorprimary">#33aaff</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#646464</color>
+    <color name="actionsheet_gray">#aaaaaa</color>
+    <color name="Grey">#f2f2f2</color>
+    <color name="bt_bg_orange">#D92E38</color>
+    <color name="bt_bg_orange1">#30c188</color>
+    <color name="gray">#ffcccccc</color>
+    <color name="toolbar_bg">#ffcccccc</color>
+    <color name="sdk_color_pwd_line">#60000000</color>
+    <color name="black_common">#000000</color>
+    <color name="base_title_color">#ffffff</color>
+    <color name="base_red_color">#ff5111</color>
+    <color name="base_blue_color">#1798FB</color>
+    <color name="toolbar_blue_color">#01A4FF</color>
+    <color name="base_yellow_color">#FFCB31</color>
+    <color name="color_yellow">#FE7566</color>
+    <!-- 灰色 -->
+    <color name="btn_text_color">#ffffff</color>
+    <color name="home_bar_text_normal">#6a6c6f</color>
+    <color name="home_bar_text_push">#4B8FF7</color>
+    <color name="titleColor">#ff333333</color>
+    <color name="textnormal">#999999</color>
+    <color name="textColor">#FF999999</color>
+    <color name="textYellowColor">#FFA536</color>
+    <color name="textColor3">#FF333333</color>
+    <color name="textColorMinor">#FFAFB0B7</color>
+
+
+    <color name="btn_bg_pressed_color">#ffacac</color>
+    <color name="btn_bg_color">#EA5622</color>
+    <color name="activity_center_right">#666666</color>
+    <color name="btn_end_color">#0DAF3C</color>
+
+
+    <color name="weidaozhang">#787878</color>
+    <color name="province_line_border">#C7C7C7</color>
+
+    <color name="col_a1">#A1A1A1</color>
+    <color name="home_bottom">#F4BD47</color>
+
+
+    <color name="backgroud">#fbfcfd</color>
+    <color name="bgCommon">#f7f7f7</color>
+    <color name="empty">#0c000000</color>
+    <color name="line">#19000000</color>
+
+    <color name="text1">#3A3B3C</color>
+    <color name="text2">#8D8D91</color>
+    <color name="text76">#767879</color>
+    <color name="text257">#A2A5A7</color>
+    <color name="textred">#D33A31</color>
+    <color name="textred2">#F3473D</color>
+    <color name="red">#D43C33</color>
+    <color name="investRed">#FF0000</color>
+    <color name="fff80">#CCffffff</color>
+
+    <color name="yellow">#FDCE30</color>
+    <color name="text_black">#333333</color>
+    <color name="white20">#CCFFFFFF</color>
+    <color name="yellowtext">#FFAB13</color>
+    <color name="bgyellow">#FFB800</color>
+    <color name="invest">#FFB900</color>
+    <color name="commonHunag">#FFB900</color>
+    <color name="bgyellow2">#F9BA43</color>
+
+    <!--透明度参照表；
+    00%=FF（不透明）    5%=F2    10%=E5    15%=D8    20%=CC    25%=BF
+      30%=B2    35%=A5    40%=99    45%=8c    50%=7F
+    55%=72    60%=66    65%=59    70%=4c    75%=3F
+    80%=33    85%=21    90%=19    95%=0c    100%=00（全透明）-->
+
+</resources>

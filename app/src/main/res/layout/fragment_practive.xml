@@ -1,0 +1,38 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:wave="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/icon_invest_bg"
+    android:gravity="center"
+    android:orientation="vertical">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:layout_marginTop="5dp">
+
+        <!--水波纹-->
+        <com.asuper.superview.view.waveview.WaveView
+            android:id="@+id/wave_view"
+            android:layout_width="match_parent"
+            android:layout_height="69dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"
+            wave:above_wave_color="@color/btn_text_color"
+            wave:blow_wave_color="@color/black"
+            wave:progress="80"
+            wave:wave_height="middle"
+            wave:wave_hz="normal"
+            wave:wave_length="middle" />
+
+        <com.asuper.superview.view.HistogramView
+            android:id="@+id/histogramView"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_marginTop="10dp" />
+
+    </RelativeLayout>
+
+
+</LinearLayout>
