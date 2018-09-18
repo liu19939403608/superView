@@ -9,7 +9,11 @@
 * 智能TextView:不需要在布局写多个textview,一个textview搞定,首个数字可以方法
 
 # 预览效果图
-![Image text](https://github.com/liu19939403608/superView/img/1.png)
+![image](https://github.com/liu19939403608/superView/raw/master/img/1.png)
+![image](https://github.com/liu19939403608/superView/raw/master/img/2.png)
+![image](https://github.com/liu19939403608/superView/raw/master/img/3.png)
+[点击下载superView.apk ](https://fir.im/ks4p)
+
 
 
 
