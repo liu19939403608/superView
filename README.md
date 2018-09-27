@@ -6,7 +6,7 @@
 # 功能介绍
 * 水波纹进度条:类似于柱状图,右侧有小标尺,伴有水波纹动画 
 * 圆形进度条:可以自定义相关颜色,数字在中间 
-* 智能TextView:不需要在布局写多个textview,一个textview搞定,首个数字可以方法
+* 智能TextView:不需要在布局写多个textview,一个textview搞定,首个数字可以放大
 
 # 预览效果图
 ![image](https://github.com/liu19939403608/superView/raw/master/img/1.png)
